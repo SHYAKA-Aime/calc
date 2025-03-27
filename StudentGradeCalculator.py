@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 class StudentGradeCalculator:
     def __init__(self):
         """Initialize with an empty list for assignments."""
