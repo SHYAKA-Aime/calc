@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+i#!/usr/bin/python3
 class StudentGradeCalculator:
     def __init__(self):
         """Initialize with an empty list for assignments."""
@@ -77,7 +77,7 @@ class StudentGradeCalculator:
 # Run the program
 calculator = StudentGradeCalculator()
 calculator.start()
-
+exit()
 
 #  Concepts Used:
 # - Data Structures: Lists, Dictionaries
